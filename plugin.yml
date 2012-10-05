@@ -1,0 +1,17 @@
+name: SoRandom
+main: com.aim.coltonjgriswold.sorandom.SoRandom
+version: 1.0
+author: coltonj96
+dev-url: http://dev.bukkit.org/server-mods/so-random/
+description: >
+             Do Random Things
+commands:
+  implode:
+    description: implode a player
+    usage: /implode <player>
+  stick:
+    description: stick a player with tnt
+    usage: /stick <player>
+  get:
+    description: get the worlds time
+    usage: /get <time|fulltime>
